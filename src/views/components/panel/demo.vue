@@ -11,7 +11,7 @@
     components: { elpanel, searchForm },
     data() {
       return {
-        titleD: '标题'
+        titleD: '标题1'
       }
     },
     methods: {
